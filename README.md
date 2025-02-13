@@ -8,7 +8,7 @@
 
 
 <div align="center">
-  <img src="./assets/tu-banner.png" alt="Mi Banner">
+  <img src="./mibanner.jpg" alt="Mi Banner">
 </div>
 
 ### 🚀 Sobre mí
