@@ -6,6 +6,11 @@
   </a>
 </div>
 
+
+<div align="center">
+  <img src="./assets/tu-banner.png" alt="Mi Banner">
+</div>
+
 ### 🚀 Sobre mí
 
 - 💼 Actualmente trabajo como [tu posición actual]
