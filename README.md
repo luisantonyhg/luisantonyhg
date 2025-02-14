@@ -13,7 +13,7 @@
 </div>
 🚀 Sobre mí
 
-- 💼 Actualmente trabajo como [tu posición actual]
+- 💼 Actualmente trabajo como desarrollador Sotfware en el Ministerio del Interior.
 - 🌱 Siempre aprendiendo sobre [tecnologías que estás aprendiendo]
 - 👯 Busco colaborar en proyectos innovadores y desafiantes
 - 💡 Me apasiona [tus intereses específicos en tecnología]
