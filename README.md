@@ -11,7 +11,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Desarrollador+de+Software;Apasionado+por+la+Tecnolog%C3%ADa;Creando+Soluciones+Innovadoras;Siempre+Aprendiendo" alt="Typing SVG" />
   </a>
 </div>
-### 🚀 Sobre mí
+🚀 Sobre mí
 
 - 💼 Actualmente trabajo como [tu posición actual]
 - 🌱 Siempre aprendiendo sobre [tecnologías que estás aprendiendo]
