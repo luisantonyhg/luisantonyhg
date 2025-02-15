@@ -18,15 +18,7 @@
 - 👯 Siempre aprendiendo sobre [tecno colaborar en proyectos innovadores y desafiantes
 - 💡 Busco colaborar en proyectos innovadores y desafiantes específicos en tecnología]
 
-### 🛠️ Stack Tecnológico
 
-```text
-Frontend:        [Tus tecnologías de frontend, ej: React, Angular, Vue]
-Backend:         [Tus tecnologías de backend, ej: Node.js, Python, Java]
-Bases de Datos:  [Tus BD, ej: PostgreSQL, MongoDB, MySQL]
-Cloud:           [Tus servicios cloud, ej: AWS, Azure, GCP]
-Herramientas:    [Otras herramientas, ej: Docker, Git, CI/CD]
-```
 
 ### 📊 Mis Estadísticas de GitHub
 
@@ -54,4 +46,4 @@ Breve descripción del proyecto, tecnologías utilizadas y tu rol.
   - Logros y responsabilidades principales
 
 ---
-⭐️ From [tu_username](https://github.com/tu_username)
+⭐️ From [tu_username](https://github.com/luisantonyhg)
