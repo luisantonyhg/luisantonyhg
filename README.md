@@ -26,8 +26,9 @@ Aquí muestro algunos proyectos de IA que he desarrollado, con enlaces al reposi
 ---
 <table>
   <tbody>
-  <tr>
-   
+    <!-- FILA 1: Proyecto 1 y Proyecto 2 -->
+    <tr>
+      <!-- Proyecto 1 -->
       <td width="50%">
         <div class="markdown-heading" dir="auto">
           <h3 align="center" class="heading-element" dir="auto">
@@ -65,12 +66,115 @@ Aquí muestro algunos proyectos de IA que he desarrollado, con enlaces al reposi
         </div>
       </td>
 
-      
+      <!-- Proyecto 2 -->
+      <td width="50%">
+        <div class="markdown-heading" dir="auto">
+          <h3 align="center" class="heading-element" dir="auto">
+            PLATAFORMA EN LA NUBE DE AWS PARA LA GESTIÓN DE CRÍSIS DE ROBO Y EMERGENCIAS PARA CIUDADANOS
+          </h3>
+        </div>
+        <div align="center" dir="auto">
+          <a href="#">
+            <img 
+              src="https://via.placeholder.com/300x180.png?text=AWS+Crisis" 
+              style="max-width: 100%;" 
+              alt="AWS Crisis">
+          </a>
+          <p dir="auto">
+            <a href="#">
+              <img 
+                src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black" 
+                style="max-width: 100%;" 
+                alt="Código">
+            </a>
+            <a href="https://www.youtube.com/watch?v=EyOO3mcyGxk&t=36s">
+              <img 
+                src="https://img.shields.io/badge/-YouTube-green?style=for-the-badge&color=3fFD7f" 
+                style="max-width: 100%;" 
+                alt="YouTube">
+            </a>
+          </p>
+          <p dir="auto">
+            Explicación breve de cómo funciona la plataforma en la nube de AWS para 
+            emergencias y notificaciones de robo en tiempo real.
+          </p>
+        </div>
+      </td>
+    </tr>
 
-      
+    <!-- FILA 2: Proyecto 3 y Proyecto 4 -->
+    <tr>
+      <!-- Proyecto 3 -->
+      <td width="50%">
+        <div class="markdown-heading" dir="auto">
+          <h3 align="center" class="heading-element" dir="auto">
+            APLICACIÓN MÓVIL EN TIEMPO REAL PARA DETECCIÓN DE LENGUAS DE SEÑAS CON VISIÓN ARTIFICIAL
+          </h3>
+        </div>
+        <div align="center" dir="auto">
+          <a href="#">
+            <img 
+              src="https://via.placeholder.com/300x180.png?text=Lenguas+de+Se%C3%B1as" 
+              style="max-width: 100%;" 
+              alt="Lenguas de Señas">
+          </a>
+          <p dir="auto">
+            <a href="#">
+              <img 
+                src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black" 
+                style="max-width: 100%;" 
+                alt="Código">
+            </a>
+            <a href="https://www.youtube.com/watch?v=flByOuwAKcc">
+              <img 
+                src="https://img.shields.io/badge/-YouTube-green?style=for-the-badge&color=3fFD7f" 
+                style="max-width: 100%;" 
+                alt="YouTube">
+            </a>
+          </p>
+          <p dir="auto">
+            Descripción breve de cómo se detectan lenguas de señas y se traducen en tiempo real.
+          </p>
+        </div>
+      </td>
+
+      <!-- Proyecto 4 -->
+      <td width="50%">
+        <div class="markdown-heading" dir="auto">
+          <h3 align="center" class="heading-element" dir="auto">
+            CURSO PYTHON
+          </h3>
+        </div>
+        <div align="center" dir="auto">
+          <a href="#">
+            <img 
+              src="https://via.placeholder.com/300x180.png?text=Curso+Python" 
+              style="max-width: 100%;" 
+              alt="Curso Python">
+          </a>
+          <p dir="auto">
+            <a href="#">
+              <img 
+                src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black" 
+                style="max-width: 100%;" 
+                alt="Código">
+            </a>
+            <a href="https://www.youtube.com/watch?v=flByOuwAKcc">
+              <img 
+                src="https://img.shields.io/badge/-YouTube-green?style=for-the-badge&color=3fFD7f" 
+                style="max-width: 100%;" 
+                alt="YouTube">
+            </a>
+          </p>
+          <p dir="auto">
+            Descripción del contenido y alcance del curso de Python.
+          </p>
+        </div>
+      </td>
     </tr>
   </tbody>
 </table>
+
 
 ---
 
