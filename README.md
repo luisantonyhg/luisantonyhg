@@ -46,4 +46,4 @@ Breve descripción del proyecto, tecnologías utilizadas y tu rol.
   - Logros y responsabilidades principales
 
 ---
-⭐️ From [tu_username](https://github.com/luisantonyhg)
+⭐️ From [@luisantonyhg](https://github.com/luisantonyhg)
