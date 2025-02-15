@@ -24,94 +24,137 @@
 Aquí muestro algunos proyectos de IA que he desarrollado, con enlaces al repositorio y videos en YouTube.
 
 ---
-   <!-- Control de robot con gestos manuales -->
-  <td width="50%" valign="top">
-    <h3 align="center">Control de robot con gestos manuales</h3>
+  
+    <!-- PROYECTO 1 -->
     <div align="center">
-      <img 
-        src="https://via.placeholder.com/300x180.png?text=Robot+con+Gestos" 
-        style="width:300px;" 
-        alt="Control de robot con gestos manuales">
+      <h3>DETECCIÓN ANTI-SOMNOLENCIA INTELIGENTE PARA CONDUCTORES EN TIEMPO REAL</h3>
+      <!-- Imagen -->
+      <a href="#">
+        <img 
+          src="https://via.placeholder.com/300x180.png?text=Anti-Somnolencia" 
+          style="max-width: 100%;" 
+          alt="Anti-Somnolencia">
+      </a>
+      <!-- Badges (Código y YouTube) -->
+      <p>
+        <a href="#">
+          <img 
+            src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black" 
+            alt="Código">
+        </a>
+        <a href="https://www.youtube.com/watch?v=1HtlpeSlg-E&t=4s">
+          <img 
+            src="https://img.shields.io/badge/-YouTube-green?style=for-the-badge&color=3fFD7f" 
+            alt="YouTube">
+        </a>
+      </p>
+      <!-- Descripción -->
+      <p>
+        Breve descripción de cómo funciona la detección anti-somnolencia 
+        para conductores en tiempo real.
+      </p>
     </div>
-    <p align="center">
+
+    <br><!-- Espacio entre proyectos -->
+
+    <!-- PROYECTO 2 -->
+    <div align="center">
+      <h3>PLATAFORMA EN LA NUBE DE AWS PARA LA GESTIÓN DE CRÍSIS DE ROBO Y EMERGENCIAS PARA CIUDADANOS</h3>
+      <!-- Imagen -->
       <a href="#">
         <img 
-          src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black" 
-          alt="Código">
+          src="https://via.placeholder.com/300x180.png?text=AWS+Crisis" 
+          style="max-width: 100%;" 
+          alt="AWS Crisis">
       </a>
+      <!-- Badges (Código y YouTube) -->
+      <p>
+        <a href="#">
+          <img 
+            src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black" 
+            alt="Código">
+        </a>
+        <a href="https://www.youtube.com/watch?v=EyOO3mcyGxk&t=36s">
+          <img 
+            src="https://img.shields.io/badge/-YouTube-green?style=for-the-badge&color=3fFD7f" 
+            alt="YouTube">
+        </a>
+      </p>
+      <!-- Descripción -->
+      <p>
+        Breve explicación de cómo funciona la plataforma en la nube de AWS 
+        para emergencias y notificaciones de robo en tiempo real.
+      </p>
+    </div>
+
+  </td>
+  
+  <!-- COLUMNA 2 -->
+  <td width="50%" valign="top">
+
+    <!-- PROYECTO 3 -->
+    <div align="center">
+      <h3>APLICACIÓN MÓVIL EN TIEMPO REAL PARA DETECCIÓN DE LENGUAS DE SEÑAS CON VISIÓN ARTIFICIAL</h3>
+      <!-- Imagen -->
       <a href="#">
         <img 
-          src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" 
-          alt="YouTube">
+          src="https://via.placeholder.com/300x180.png?text=Lenguas+de+Se%C3%B1as" 
+          style="max-width: 100%;" 
+          alt="Lenguas de Señas">
       </a>
-    </p>
-    <p>
-      Descubre cómo creamos un revolucionario sistema de control de robot 
-      que integra gestos de mano, Mediapipe y comunicación serial 
-      para convertir tus movimientos en acciones de control en <strong>tiempo real</strong>.
-    </p>
+      <!-- Badges (Código y YouTube) -->
+      <p>
+        <a href="#">
+          <img 
+            src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black" 
+            alt="Código">
+        </a>
+        <a href="https://www.youtube.com/watch?v=flByOuwAKcc">
+          <img 
+            src="https://img.shields.io/badge/-YouTube-green?style=for-the-badge&color=3fFD7f" 
+            alt="YouTube">
+        </a>
+      </p>
+      <!-- Descripción -->
+      <p>
+        Breve descripción de cómo se detectan lenguas de señas 
+        y se traducen en tiempo real usando visión artificial.
+      </p>
+    </div>
+
+    <br><!-- Espacio entre proyectos -->
+
+    <!-- PROYECTO 4 -->
+    <div align="center">
+      <h3>CURSO PYTHON</h3>
+      <!-- Imagen -->
+      <a href="#">
+        <img 
+          src="https://via.placeholder.com/300x180.png?text=Curso+Python" 
+          style="max-width: 100%;" 
+          alt="Curso Python">
+      </a>
+      <!-- Badges (Código y YouTube) -->
+      <p>
+        <a href="#">
+          <img 
+            src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black" 
+            alt="Código">
+        </a>
+        <a href="https://www.youtube.com/watch?v=flByOuwAKcc">
+          <img 
+            src="https://img.shields.io/badge/-YouTube-green?style=for-the-badge&color=3fFD7f" 
+            alt="YouTube">
+        </a>
+      </p>
+      <!-- Descripción -->
+      <p>
+        Breve descripción del contenido y alcance del curso de Python.
+      </p>
+    </div>
+
   </td>
 </tr>
-
-<!-- FILA 2: Reconocimiento facial + liveness y Control de frutas -->
-<tr>
-  <!-- Reconocimiento facial + liveness -->
-  <td width="50%" valign="top">
-    <h3 align="center">Reconocimiento facial + liveness</h3>
-    <div align="center">
-      <img 
-        src="https://via.placeholder.com/300x180.png?text=Reconocimiento+Facial" 
-        style="width:300px;" 
-        alt="Reconocimiento facial + liveness">
-    </div>
-    <p align="center">
-      <a href="#">
-        <img 
-          src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black" 
-          alt="Código">
-      </a>
-      <a href="#">
-        <img 
-          src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" 
-          alt="YouTube">
-      </a>
-    </p>
-    <p>
-      Crea tu propio sistema de detección de rostros en <strong>tiempo real</strong> 
-      con Python y OpenCV, añadiendo un módulo de <em>liveness</em> 
-      para evitar suplantaciones. ¡Código y ejemplos incluidos!
-    </p>
-  </td>
-
-  <!-- Control de frutas en buen estado -->
-  <td width="50%" valign="top">
-    <h3 align="center">Control de frutas en buen estado</h3>
-    <div align="center">
-      <img 
-        src="https://via.placeholder.com/300x180.png?text=Control+de+Frutas" 
-        style="width:300px;" 
-        alt="Control de frutas en buen estado">
-    </div>
-    <p align="center">
-      <a href="#">
-        <img 
-          src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black" 
-          alt="Código">
-      </a>
-      <a href="#">
-        <img 
-          src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" 
-          alt="YouTube">
-      </a>
-    </p>
-    <p>
-      Crea un sistema de clasificación de frutas en buen estado 
-      utilizando IA y Jetson Nano, para determinar la frescura de los productos 
-      antes de que lleguen al consumidor.
-    </p>
-  </td>
-</tr>
-
 
 
 
