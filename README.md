@@ -18,6 +18,49 @@
 - 👯 Siempre aprendiendo sobre [tecno colaborar en proyectos innovadores y desafiantes
 - 💡 Busco colaborar en proyectos innovadores y desafiantes específicos en tecnología]
 
+## Proyectos IA
+
+<!-- Puedes usar un título más grande o un texto introductorio aquí -->
+Aquí muestro algunos proyectos de IA que he desarrollado, con enlaces al repositorio y videos en YouTube.
+
+---
+
+<!-- Estructura de tarjetas usando tablas en Markdown -->
+|  |  |
+| --- | --- |
+| 
+<img src="https://via.placeholder.com/300x180.png?text=Imagen+Proyecto+1" width="300px">  | 
+**Tienda Inteligente**  
+Aprende a programar una increíble tienda inteligente.  
+[![Código](https://img.shields.io/badge/-CÓDIGO-green?style=flat-square)](TU_ENLACE_CODIGO) 
+[![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat-square)](TU_ENLACE_VIDEO) 
+|
+| 
+<img src="https://via.placeholder.com/300x180.png?text=Imagen+Proyecto+2" width="300px">  | 
+**Control de Robot con Gestos de Mano**  
+Descubre cómo entrenar una IA que reconozca gestos de tu mano para controlar un robot en tiempo real.  
+[![Código](https://img.shields.io/badge/-CÓDIGO-green?style=flat-square)](TU_ENLACE_CODIGO) 
+[![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat-square)](TU_ENLACE_VIDEO)
+|
+| 
+<img src="https://via.placeholder.com/300x180.png?text=Imagen+Proyecto+3" width="300px">  | 
+**Reconocimiento Facial + Liveness**  
+Usa Python y OpenCV para detectar rostros en tiempo real e integrar un sistema de detección de vivacidad.  
+[![Código](https://img.shields.io/badge/-CÓDIGO-green?style=flat-square)](TU_ENLACE_CODIGO) 
+[![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat-square)](TU_ENLACE_VIDEO)
+|
+| 
+<img src="https://via.placeholder.com/300x180.png?text=Imagen+Proyecto+4" width="300px">  | 
+**Control de Calidad de Frutas**  
+Crea un sistema de clasificación de frutas en buen estado utilizando IA y Jetson Nano.  
+[![Código](https://img.shields.io/badge/-CÓDIGO-green?style=flat-square)](TU_ENLACE_CODIGO) 
+[![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat-square)](TU_ENLACE_VIDEO)
+|
+
+---
+
+<!-- Puedes cerrar con una frase o sección adicional -->
+¡Espero que estos proyectos te sirvan de inspiración!
 
 
 ### 📊 Mis Estadísticas de GitHub
