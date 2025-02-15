@@ -27,7 +27,7 @@ Aquí muestro algunos proyectos de IA que he desarrollado, con enlaces al reposi
 <table>
   <tbody>
   <tr>
-      <!-- Proyecto 1 -->
+   
       <td width="50%">
         <div class="markdown-heading" dir="auto">
           <h3 align="center" class="heading-element" dir="auto">
