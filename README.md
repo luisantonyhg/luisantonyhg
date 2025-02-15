@@ -24,38 +24,29 @@
 Aquí muestro algunos proyectos de IA que he desarrollado, con enlaces al repositorio y videos en YouTube.
 
 ---
+|   |   |
+|---|---|
+| <img src="https://via.placeholder.com/300x180.png?text=Anti-Somnolencia" width="300px"> | 
+**DETECCIÓN ANTI-SOMNOLENCIA INTELIGENTE PARA CONDUCTORES EN TIEMPO REAL**  
+*(Monitoreo y alertas en tiempo real para evitar accidentes por somnolencia)*  
+<br>  
+[![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat-square)](https://www.youtube.com/watch?v=1HtlpeSlg-E&t=4s) |
+| <img src="https://via.placeholder.com/300x180.png?text=AWS+Cr%C3%ADsis" width="300px"> | 
+**PLATAFORMA EN LA NUBE DE AWS PARA LA GESTIÓN DE CRÍSIS DE ROBO Y EMERGENCIAS PARA CIUDADANOS**  
+*(Solución escalable para notificaciones y manejo de incidentes)*  
+<br>  
+[![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat-square)](https://www.youtube.com/watch?v=EyOO3mcyGxk&t=36s) |
+| <img src="https://via.placeholder.com/300x180.png?text=Lenguas+de+Se%C3%B1as" width="300px"> | 
+**APLICACIÓN MÓVIL EN TIEMPO REAL PARA DETECCIÓN DE LENGUAS DE SEÑAS CON VISIÓN ARTIFICIAL**  
+*(Reconocimiento de señas y traducción en tiempo real a texto)*  
+<br>  
+[![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat-square)](https://www.youtube.com/watch?v=flByOuwAKcc) |
+| <img src="https://via.placeholder.com/300x180.png?text=Curso+Python" width="300px"> | 
+**CURSO PYTHON**  
+*(Aprende Python desde cero con ejemplos prácticos)*  
+<br>  
+[![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat-square)](https://www.youtube.com/watch?v=flByOuwAKcc) |
 
-<!-- Estructura de tarjetas usando tablas en Markdown -->
-|  |  |
-| --- | --- |
-| 
-<img src="https://www.youtube.com/watch?v=1HtlpeSlg-E&t=102s/300x180.png?text=Imagen+Proyecto+1" width="300px">  | 
-**Tienda Inteligente**  
-Aprende a programar una increíble tienda inteligente.  
-[![Código](https://img.shields.io/badge/-CÓDIGO-green?style=flat-square)](TU_ENLACE_CODIGO) 
-[![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat-square)](https://www.youtube.com/watch?v=1HtlpeSlg-E&t=102s) 
-|
-| 
-<img src="https://via.placeholder.com/300x180.png?text=Imagen+Proyecto+2" width="300px">  | 
-**Control de Robot con Gestos de Mano**  
-Descubre cómo entrenar una IA que reconozca gestos de tu mano para controlar un robot en tiempo real.  
-[![Código](https://img.shields.io/badge/-CÓDIGO-green?style=flat-square)](TU_ENLACE_CODIGO) 
-[![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat-square)](TU_ENLACE_VIDEO)
-|
-| 
-<img src="https://via.placeholder.com/300x180.png?text=Imagen+Proyecto+3" width="300px">  | 
-**Reconocimiento Facial + Liveness**  
-Usa Python y OpenCV para detectar rostros en tiempo real e integrar un sistema de detección de vivacidad.  
-[![Código](https://img.shields.io/badge/-CÓDIGO-green?style=flat-square)](TU_ENLACE_CODIGO) 
-[![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat-square)](TU_ENLACE_VIDEO)
-|
-| 
-<img src="https://via.placeholder.com/300x180.png?text=Imagen+Proyecto+4" width="300px">  | 
-**Control de Calidad de Frutas**  
-Crea un sistema de clasificación de frutas en buen estado utilizando IA y Jetson Nano.  
-[![Código](https://img.shields.io/badge/-CÓDIGO-green?style=flat-square)](TU_ENLACE_CODIGO) 
-[![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat-square)](TU_ENLACE_VIDEO)
-|
 
 ---
 
