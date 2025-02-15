@@ -108,5 +108,32 @@ Logros y responsabilidades principales
 <h4 align="center">Conteo de visitantes 👀</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{luisantonyhg}/count.svg" alt="yuebaix :: Visitor's Count" /></p>
 <br/>
+[contenido anterior del README...]
 
-⭐️ From @luisantonyhg
+<div align="center">
+  <h2>¡Acompáñame en mi viaje de desarrollo! 🚀</h2>
+  <p>¿Te gustan mis proyectos? ¡Sígueme y construyamos algo increíble juntos! 👋</p>
+  
+  <a href="https://github.com/luisantonyhg?tab=followers">
+    <img alt="followers" title="Sígueme en Github" src="https://custom-icon-badges.demolab.com/github/followers/luisantonyhg?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  </a>
+  <a href="https://github.com/luisantonyhg?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total de estrellas en GitHub" src="https://custom-icon-badges.demolab.com/github/stars/luisantonyhg?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+  </a>
+  
+  <p>💡 Si encuentras útiles mis repositorios, ¡considera darme una estrella! ⭐️</p>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luisantonyhg&theme=radical&hide_border=true" alt="Racha de contribuciones"/>
+  
+  <details open>
+    <summary>😎 ¿Por qué seguirme?</summary>
+    <br>
+    
+    ✨ Comparto proyectos de IA y automatización regularmente
+    🎓 Tutoriales y guías detalladas
+    💡 Soluciones innovadoras a problemas reales
+    🤝 Colaboración activa con la comunidad
+    🚀 Código limpio y bien documentado
+  </details>
+</div>
+
