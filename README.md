@@ -30,7 +30,7 @@ Herramientas:    [Otras herramientas, ej: Docker, Git, CI/CD]
 
 ### 📊 Mis Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=luisantonyhg&show_icons=true&theme=radical)
 
 ### 🌟 Proyectos Destacados
 
