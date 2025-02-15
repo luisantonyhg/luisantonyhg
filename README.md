@@ -29,11 +29,11 @@ Aquí muestro algunos proyectos de IA que he desarrollado, con enlaces al reposi
 |  |  |
 | --- | --- |
 | 
-<img src="https://via.placeholder.com/300x180.png?text=Imagen+Proyecto+1" width="300px">  | 
+<img src="https://www.youtube.com/watch?v=1HtlpeSlg-E&t=102s/300x180.png?text=Imagen+Proyecto+1" width="300px">  | 
 **Tienda Inteligente**  
 Aprende a programar una increíble tienda inteligente.  
 [![Código](https://img.shields.io/badge/-CÓDIGO-green?style=flat-square)](TU_ENLACE_CODIGO) 
-[![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat-square)](TU_ENLACE_VIDEO) 
+[![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat-square)](https://www.youtube.com/watch?v=1HtlpeSlg-E&t=102s) 
 |
 | 
 <img src="https://via.placeholder.com/300x180.png?text=Imagen+Proyecto+2" width="300px">  | 
