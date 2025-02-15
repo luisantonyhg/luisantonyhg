@@ -24,7 +24,9 @@ Aquí muestro algunos proyectos de IA que he desarrollado, con enlaces al reposi
             <img src="/api/placeholder/400/320" alt="Tienda Inteligente" width="400px" height="300px">
             <p>
             
-               <img src="./deteccion.png" alt="vacio">
+              <a href="https://youtube.com/tu-video">
+                    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+                </a>
                 <a href="https://youtube.com/tu-video">
                     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
                 </a>
