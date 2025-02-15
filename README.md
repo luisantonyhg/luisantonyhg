@@ -24,7 +24,105 @@
 Aquí muestro algunos proyectos de IA que he desarrollado, con enlaces al repositorio y videos en YouTube.
 
 ---
-<!-- Copia todo este bloque y pégalo directamente en tu README.md sin usar ``` --> <table> <tbody> <!-- FILA 1: Proyecto 1 y Proyecto 2 --> <tr> <!-- Proyecto 1 --> <td width="50%"> <div align="center"> <h3>DETECCIÓN ANTI-SOMNOLENCIA INTELIGENTE PARA CONDUCTORES EN TIEMPO REAL</h3> <!-- Imagen --> <a href="#"> <img src="https://via.placeholder.com/300x180.png?text=Anti-Somnolencia" style="max-width: 100%;" alt="Anti-Somnolencia"> </a> <!-- Badges (Código y YouTube) --> <p> <a href="#"> <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black" alt="Código"> </a> <a href="https://www.youtube.com/watch?v=1HtlpeSlg-E&t=4s"> <img src="https://img.shields.io/badge/-YouTube-green?style=for-the-badge&color=3fFD7f" alt="YouTube"> </a> </p> <!-- Descripción --> <p> Breve descripción de cómo funciona la detección anti-somnolencia para conductores en tiempo real. </p> </div> </td>
+  <!-- Proyecto 2 -->
+  <td width="50%">
+    <div align="center">
+      <h3>PLATAFORMA EN LA NUBE DE AWS PARA LA GESTIÓN DE CRÍSIS DE ROBO Y EMERGENCIAS PARA CIUDADANOS</h3>
+      <!-- Imagen -->
+      <a href="#">
+        <img 
+          src="https://via.placeholder.com/300x180.png?text=AWS+Crisis" 
+          style="max-width: 100%;" 
+          alt="AWS Crisis">
+      </a>
+      <!-- Badges (Código y YouTube) -->
+      <p>
+        <a href="#">
+          <img 
+            src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black" 
+            alt="Código">
+        </a>
+        <a href="https://www.youtube.com/watch?v=EyOO3mcyGxk&t=36s">
+          <img 
+            src="https://img.shields.io/badge/-YouTube-green?style=for-the-badge&color=3fFD7f" 
+            alt="YouTube">
+        </a>
+      </p>
+      <!-- Descripción -->
+      <p>
+        Breve explicación de cómo funciona la plataforma en la nube de AWS para 
+        emergencias y notificaciones de robo en tiempo real.
+      </p>
+    </div>
+  </td>
+</tr>
+
+<!-- FILA 2: Proyecto 3 y Proyecto 4 -->
+<tr>
+  <!-- Proyecto 3 -->
+  <td width="50%">
+    <div align="center">
+      <h3>APLICACIÓN MÓVIL EN TIEMPO REAL PARA DETECCIÓN DE LENGUAS DE SEÑAS CON VISIÓN ARTIFICIAL</h3>
+      <!-- Imagen -->
+      <a href="#">
+        <img 
+          src="https://via.placeholder.com/300x180.png?text=Lenguas+de+Se%C3%B1as" 
+          style="max-width: 100%;" 
+          alt="Lenguas de Señas">
+      </a>
+      <!-- Badges (Código y YouTube) -->
+      <p>
+        <a href="#">
+          <img 
+            src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black" 
+            alt="Código">
+        </a>
+        <a href="https://www.youtube.com/watch?v=flByOuwAKcc">
+          <img 
+            src="https://img.shields.io/badge/-YouTube-green?style=for-the-badge&color=3fFD7f" 
+            alt="YouTube">
+        </a>
+      </p>
+      <!-- Descripción -->
+      <p>
+        Breve descripción de cómo se detectan lenguas de señas y se traducen 
+        en tiempo real usando visión artificial.
+      </p>
+    </div>
+  </td>
+
+  <!-- Proyecto 4 -->
+  <td width="50%">
+    <div align="center">
+      <h3>CURSO PYTHON</h3>
+      <!-- Imagen -->
+      <a href="#">
+        <img 
+          src="https://via.placeholder.com/300x180.png?text=Curso+Python" 
+          style="max-width: 100%;" 
+          alt="Curso Python">
+      </a>
+      <!-- Badges (Código y YouTube) -->
+      <p>
+        <a href="#">
+          <img 
+            src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black" 
+            alt="Código">
+        </a>
+        <a href="https://www.youtube.com/watch?v=flByOuwAKcc">
+          <img 
+            src="https://img.shields.io/badge/-YouTube-green?style=for-the-badge&color=3fFD7f" 
+            alt="YouTube">
+        </a>
+      </p>
+      <!-- Descripción -->
+      <p>
+        Breve descripción del contenido y alcance del curso de Python.
+      </p>
+    </div>
+  </td>
+</tr>
+
 
 
 ---
