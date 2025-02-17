@@ -45,7 +45,8 @@
 <br>
 <h2 style="font-family: 'Georgia', serif; font-size:32px;">🚀 Mi Proyectos</h2>
 
-Aquí muestro algunos proyectos de IA que he desarrollado, con enlaces al repositorio y videos en YouTube.
+Aquí muestro algunos proyectos que he desarrollado, con enlaces al repositorio y videos en YouTube.
+<br>
 <table>
 <tr>
     <td width="50%">
