@@ -93,27 +93,7 @@ Aquí muestro algunos proyectos de IA que he desarrollado, con enlaces al reposi
     </td>
 </tr>
 </table>
-📊 Mis Estadísticas de GitHub
-Show Image
-🌟 Proyectos Destacados
-Nombre del Proyecto 1
-Breve descripción del proyecto, tecnologías utilizadas y tu rol.
-Nombre del Proyecto 2
-Breve descripción del proyecto, tecnologías utilizadas y tu rol.
-📫 Conecta Conmigo
-Show Image
-Show Image
-Show Image
-💼 Experiencia Profesional
 
-[Empresa Actual] - [Posición] (Fecha - Presente)
-
-Logros y responsabilidades principales
-
-
-[Empresa Anterior] - [Posición] (Fecha - Fecha)
-
-Logros y responsabilidades principales
 
 
 <h4 align="center">Conteo de visitantes 👀</h4>
