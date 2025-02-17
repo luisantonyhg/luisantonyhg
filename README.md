@@ -137,5 +137,5 @@ Logros y responsabilidades principales
   </details>
 </div>
 <div align="center">
-  <img src="./mibanner.jpeg" alt="vacio">
+  <img src="./header_.png" alt="vacio">
 </div>
