@@ -19,14 +19,14 @@ Aquí muestro algunos proyectos de IA que he desarrollado, con enlaces al reposi
 <table>
 <tr>
     <td width="50%">
-        <h3 align="center">Tienda Inteligente</h3>
+        <h3 align="center">DETECCIÓN ANTI-SOMNOLENCIA INTELIGENTE PARA CONDUCTORES EN TIEMPO REAL</h3>
         <div align="center">
             <img src="/api/placeholder/400/320" alt="Tienda Inteligente" width="400px" height="300px">
             <p>
                 <a href="https://github.com/tu-usuario/tienda-inteligente">
                     <img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white">
                 </a>
-                <a href="https://youtube.com/tu-video">
+                <a href="https://www.youtube.com/watch?v=1HtlpeSlg-E">
                     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
                 </a>
             </p>
