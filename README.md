@@ -7,23 +7,28 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Desarrollador+de+Software;Apasionado+por+la+Tecnolog%C3%ADa;Creando+Soluciones+Innovadoras;Siempre+Aprendiendo" alt="Typing SVG" />
   </a>
 </div>
-🚀 Sobre mí:
+<h2 style="font-family: 'Georgia', serif; font-size: 32px;">🚀 Sobre mí:</h2>
+<ul style="font-family: 'Times New Roman', serif; font-size: 20px; list-style-type: circle;">
+  <li>💼 Actualmente trabajo como desarrollador de software en el Ministerio del Interior.</li>
+  <li>🌱 Apasionado por automatizar procesos con años de experiencia.</li>
+  <li>👯 Siempre aprendiendo sobre tecnología.</li>
+  <li>💡 Busco colaborar en proyectos innovadores y desafiantes en tecnología.</li>
+</ul>
 
-💼 Actualmente trabajo como desarrollador Sotfware en el Ministerio del Interior.
-🌱 Apasionado por automatizar procesos con años de experiencia.
-👯 Siempre aprendiendo sobre tecnología
-💡 Busco colaborar en proyectos innovadores y desafiantes específicos en tecnología
 
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="60">
-<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60">
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="60">
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="60">
-<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="60">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="60">
-<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="60">
-<img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="60">
-<img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="60">
-<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60">
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="60">
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60">
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="60">
+  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="60">
+  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="60">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="60">
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="60">
+  <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="60">
+  <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="60">
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60">
+</p>
+
 
 Proyectos IA 🤖
 Aquí muestro algunos proyectos de IA que he desarrollado, con enlaces al repositorio y videos en YouTube.
