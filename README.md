@@ -72,7 +72,7 @@ Aquí muestro algunos proyectos de IA que he desarrollado, con enlaces al reposi
     </td>
 </tr>
 <tr>
-    <td width="100%">
+    <td width="50%">
         <h3 align="center">APLICACIÓN MÓVIL EN TIEMPO REAL PARA DETECCIÓN DE LENGUAS DE SEÑAS CON VISIÓN ARTIFICIAL</h3>
         <div align="center">
             <img src="./deteccionsenas.png" alt="Reconocimiento Facial" width="400px" height="300px">
@@ -101,7 +101,7 @@ Aquí muestro algunos proyectos de IA que he desarrollado, con enlaces al reposi
 <div align="center">
   <h2>¡Acompáñame en mi viaje de desarrollo! 🚀</h2>
   <p>¿Te gustan mis proyectos? ¡Sígueme y construyamos algo increíble juntos! 👋</p>
-  
+  <p>💡 Si encuentras útiles mis repositorios, ¡considera darme una estrella! ⭐️</p>
   <a href="https://github.com/luisantonyhg?tab=followers">
     <img alt="followers" title="Sígueme en Github" src="https://custom-icon-badges.demolab.com/github/followers/luisantonyhg?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
@@ -109,9 +109,7 @@ Aquí muestro algunos proyectos de IA que he desarrollado, con enlaces al reposi
     <img alt="total stars" title="Total de estrellas en GitHub" src="https://custom-icon-badges.demolab.com/github/stars/luisantonyhg?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
   </a>
   
-  <p>💡 Si encuentras útiles mis repositorios, ¡considera darme una estrella! ⭐️</p>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luisantonyhg&theme=radical&hide_border=true" alt="Racha de contribuciones"/>
   
 
 </div>
