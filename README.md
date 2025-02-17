@@ -1,21 +1,25 @@
-👋 Hola Soy Luis Antony Huamani Gonzales 🚀
+
+<h2 style="font-family: 'Georgia', serif; font-size:32px;">👋 Hola Soy Luis Antony Huamani Gonzales 🚀</h2>
 <div align="center">
   <img src="./mibanner.jpeg" alt="vacio">
 </div>
+<br>
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Desarrollador+de+Software;Apasionado+por+la+Tecnolog%C3%ADa;Creando+Soluciones+Innovadoras;Siempre+Aprendiendo" alt="Typing SVG" />
   </a>
 </div>
 <h2 style="font-family: 'Georgia', serif; font-size: 32px;">🚀 Sobre mí:</h2>
+
 <ul style="font-family: 'Times New Roman', serif; font-size: 20px; list-style-type: circle;">
   <li>💼 Actualmente trabajo como desarrollador de software en el Ministerio del Interior.</li>
   <li>🌱 Apasionado por automatizar procesos con años de experiencia.</li>
   <li>👯 Siempre aprendiendo sobre tecnología.</li>
   <li>💡 Busco colaborar en proyectos innovadores y desafiantes en tecnología.</li>
 </ul>
-
-
+<br>
+<h2 style="font-family: 'Georgia', serif; font-size:32px;">🚀 Mis Tecnologías y Herramientas </h2>
+<br>
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="60">
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60">
@@ -28,7 +32,7 @@
   <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="60">
   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60">
 </p>
-
+<br>
 <h2 style="font-family: 'Georgia', serif; font-size:32px;">🚀 Mi Proyectos</h2>
 
 Aquí muestro algunos proyectos de IA que he desarrollado, con enlaces al repositorio y videos en YouTube.
