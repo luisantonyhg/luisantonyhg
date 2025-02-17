@@ -45,7 +45,7 @@ Aquí muestro algunos proyectos de IA que he desarrollado, con enlaces al reposi
                     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
                 </a>
             </p>
-            <p>plataforma web en AWS, diseñada para generar alertas y gestionar emergencias en tiempo real, , contribuyendo a la prevención de delitos.</p>
+            <p>plataforma web en AWS, diseñada para generar alertas y gestionar emergencias en tiempo real, contribuyendo a la prevención de delitos.</p>
         </div>
     </td>
 </tr>
