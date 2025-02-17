@@ -34,14 +34,14 @@ Aquí muestro algunos proyectos de IA que he desarrollado, con enlaces al reposi
         </div>
     </td>
     <td width="50%">
-        <h3 align="center">Control de Robot con Gestos</h3>
+        <h3 align="center">PLATAFORMA EN LA NUBE DE AWS PARA LA GESTIÓN DE CRÍSIS DE ROBO Y EMERGENCIAS PARA CIUDADANOS</h3>
         <div align="center">
             <img src="/api/placeholder/400/320" alt="Control de Robot" width="400px" height="300px">
             <p>
                 <a href="https://github.com/tu-usuario/control-robot">
                     <img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white">
                 </a>
-                <a href="https://youtube.com/tu-video">
+                <a href="https://www.youtube.com/watch?v=EyOO3mcyGxk&t=40s">
                     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
                 </a>
             </p>
