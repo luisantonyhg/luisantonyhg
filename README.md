@@ -22,17 +22,18 @@
 <br>
 <p align="center">
    
- <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" width="120">
- <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" width="120">
- <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" width="120">
-  <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" width="120">
-  <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" width="120">
-  <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" width="120">
-  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" width="120>
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21~bgwhite.svg" width="120">
+ <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" width="140">
+ <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" width="140">
+ <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" width="140">
+  <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" width="140">
+  <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" width="140">
+  <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" width="140">
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" width="140">
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="60">
+    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" width="140">
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60">
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="60">
+    <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-ar21.svg" width="140">
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="60">
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="60">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="60">
