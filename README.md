@@ -13,8 +13,8 @@
 
 <ul style="font-family: 'Times New Roman', serif; font-size: 20px; list-style-type: circle;">
   <li>💼 Actualmente trabajo como desarrollador de software en el Ministerio del Interior.</li>
-  <li>🌱 Apasionado por automatizar procesos con años de experiencia.</li>
-  <li>👯 Siempre aprendiendo sobre tecnología.</li>
+  <li>🌱 Apasionado por automatizar procesos con 7 años de experiencia.</li>
+  <li>👯 Siempre aprendiendo nuevas tecnología.</li>
   <li>💡 Busco colaborar en proyectos innovadores y desafiantes en tecnología.</li>
 </ul>
 <br>
@@ -72,7 +72,7 @@ Aquí muestro algunos proyectos de IA que he desarrollado, con enlaces al reposi
     </td>
 </tr>
 <tr>
-    <td width="50%">
+    <td width="100%">
         <h3 align="center">APLICACIÓN MÓVIL EN TIEMPO REAL PARA DETECCIÓN DE LENGUAS DE SEÑAS CON VISIÓN ARTIFICIAL</h3>
         <div align="center">
             <img src="./deteccionsenas.png" alt="Reconocimiento Facial" width="400px" height="300px">
