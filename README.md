@@ -30,7 +30,7 @@ Aquí muestro algunos proyectos de IA que he desarrollado, con enlaces al reposi
                     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
                 </a>
             </p>
-            <p>Aprende a programar una increíble tienda inteligente. Una clase de más de 1 hora donde te enseño a utilizar herramientas de inteligencia artificial y visión por computadora para crear tu propio sistema de reconocimiento de objetos y proceso de pago en TIEMPO REAL.</p>
+            <p>Sistema de detección de visión por computador que detecta signos de somnolencia en conductores, algo crucial para prevenir accidentes por fatiga.</p>
         </div>
     </td>
     <td width="50%">
@@ -62,7 +62,7 @@ Aquí muestro algunos proyectos de IA que he desarrollado, con enlaces al reposi
                     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
                 </a>
             </p>
-            <p>Crea tu propio sistema de reconocimiento facial & liveness utilizando librerías de reconocimiento de rostros e integrando funcionalidades mediapipe.</p>
+            <p> Este es proyecto increíble que desarrollamos con mis compañeros como parte de nuestros estudios en Ingeniería de Sistemas en la Universidad Autónoma del Perú. Se trata de una aplicación móvil innovadora que utiliza visión por computadora para traducir en tiempo real la lengua de señas peruana (LSP)</p>
         </div>
     </td>
     <td width="50%">
