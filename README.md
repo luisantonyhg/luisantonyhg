@@ -75,7 +75,7 @@ Aquí muestro algunos proyectos de IA que he desarrollado, con enlaces al reposi
                     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
                 </a>
             </p>
-            <p>plataforma web en AWS, diseñada para generar alertas y gestionar emergencias en tiempo real, contribuyendo a la prevención de delitos.</p>
+            <p>Plataforma web en AWS, diseñada para generar alertas y gestionar emergencias en tiempo real, contribuyendo a la prevención de delitos.</p>
         </div>
     </td>
 </tr>
@@ -108,8 +108,8 @@ Aquí muestro algunos proyectos de IA que he desarrollado, con enlaces al reposi
 
 <div align="center">
   <h2>¡Acompáñame en mi viaje de desarrollo! 🚀</h2>
-  <p>¿Te gustan mis proyectos? ¡Sígueme y construyamos algo increíble juntos! 👋</p>
-  <p>💡 Si encuentras útiles mis repositorios, ¡considera darme una estrella! ⭐️</p>
+  <p>¿Te gustan mis proyectos? Sígueme y construyamos algo increíble juntos 👋</p>
+  <p>💡 Si encuentras útiles mis repositorios, considera darme una estrella ⭐️</p>
   <a href="https://github.com/luisantonyhg?tab=followers">
     <img alt="followers" title="Sígueme en Github" src="https://custom-icon-badges.demolab.com/github/followers/luisantonyhg?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
