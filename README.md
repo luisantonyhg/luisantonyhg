@@ -21,6 +21,8 @@
 <h2 style="font-family: 'Georgia', serif; font-size:32px;">🚀 Mis Tecnologías y Herramientas </h2>
 <br>
 <p align="center">
+ 
+  <img src=" https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" width="60">
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="60">
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60">
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="60">
