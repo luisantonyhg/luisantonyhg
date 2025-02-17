@@ -87,21 +87,7 @@ Aquí muestro algunos proyectos de IA que he desarrollado, con enlaces al reposi
             <p> Este es proyecto increíble que desarrollamos con mis compañeros como parte de nuestros estudios en Ingeniería de Sistemas en la Universidad Autónoma del Perú. Se trata de una aplicación móvil innovadora que utiliza visión por computadora para traducir en tiempo real la lengua de señas peruana (LSP)</p>
         </div>
     </td>
-    <td width="50%">
-        <h3 align="center">Control de Frutas en Buen Estado</h3>
-        <div align="center">
-            <img src="/api/placeholder/400/320" alt="Control de Frutas" width="400px" height="300px">
-            <p>
-                <a href="https://github.com/tu-usuario/control-frutas">
-                    <img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white">
-                </a>
-                <a href="https://youtube.com/tu-video">
-                    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-                </a>
-            </p>
-            <p>Crea tu propio sistema de detección de frutas en buen estado utilizando diferentes librerías y de visión por computadora con Jetson Nano.</p>
-        </div>
-    </td>
+
 </tr>
 </table>
 
