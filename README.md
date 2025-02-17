@@ -1,4 +1,4 @@
-👋 ¡Hola! Soy Luis Antony 🚀
+👋 Hola Soy Luis Antony 🚀
 <div align="center">
   <img src="./mibanner.jpeg" alt="vacio">
 </div>
@@ -108,7 +108,7 @@ Logros y responsabilidades principales
 <h4 align="center">Conteo de visitantes 👀</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{luisantonyhg}/count.svg" alt="yuebaix :: Visitor's Count" /></p>
 <br/>
-[contenido anterior del README...]
+
 
 <div align="center">
   <h2>¡Acompáñame en mi viaje de desarrollo! 🚀</h2>
