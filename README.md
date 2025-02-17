@@ -1,4 +1,4 @@
-👋 Hola Soy Luis Antony 🚀
+👋 Hola Soy Luis Antony Huamani Gonzales 🚀
 <div align="center">
   <img src="./mibanner.jpeg" alt="vacio">
 </div>
@@ -136,4 +136,6 @@ Logros y responsabilidades principales
     🚀 Código limpio y bien documentado
   </details>
 </div>
-
+<div align="center">
+  <img src="./mibanner.jpeg" alt="vacio">
+</div>
