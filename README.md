@@ -26,7 +26,7 @@ Aquí muestro algunos proyectos de IA que he desarrollado, con enlaces al reposi
                 <a href="https://github.com/tu-usuario/tienda-inteligente">
                     <img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white">
                 </a>
-                <a href="https://www.youtube.com/watch?v=1HtlpeSlg-E">
+                <a href="https://www.youtube.com/watch?v=1HtlpeSlg-E" target="_blank" rel="noopener noreferrer">
                     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
                 </a>
             </p>
@@ -41,7 +41,7 @@ Aquí muestro algunos proyectos de IA que he desarrollado, con enlaces al reposi
                 <a href="https://github.com/tu-usuario/control-robot">
                     <img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white">
                 </a>
-                <a href="https://www.youtube.com/watch?v=EyOO3mcyGxk&t=40s">
+                <a href="https://www.youtube.com/watch?v=EyOO3mcyGxk&t=40s" target="_blank" rel="noopener noreferrer">
                     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
                 </a>
             </p>
@@ -58,7 +58,7 @@ Aquí muestro algunos proyectos de IA que he desarrollado, con enlaces al reposi
                 <a href="https://github.com/tu-usuario/reconocimiento-facial">
                     <img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white">
                 </a>
-                <a href="https://www.youtube.com/watch?v=flByOuwAKcc">
+                <a href="https://www.youtube.com/watch?v=flByOuwAKcc" target="_blank" rel="noopener noreferrer">
                     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
                 </a>
             </p>
