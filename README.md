@@ -34,7 +34,7 @@ Aquí muestro algunos proyectos de IA que he desarrollado, con enlaces al reposi
         </div>
     </td>
     <td width="50%">
-        <h3 align="center">PLATAFORMA EN LA NUBE DE AWS PARA LA GESTIÓN DE CRÍSIS DE ROBO Y EMERGENCIAS PARA CIUDADANOS</h3>
+        <h3 align="center">PLATAFORMA EN LA NUBE DE AWS PARA LA GESTIÓN DE CRÍSIS DE ROBO Y EMERGENCIAS</h3>
         <div align="center">
             <img src="./sistema_aws.png" alt="Control de Robot" width="400px" height="300px">
             <p>
