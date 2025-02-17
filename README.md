@@ -29,8 +29,8 @@
   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60">
 </p>
 
+<h2 style="font-family: 'Georgia', serif; font-size:32px;">🚀 Mi Proyectos</h2>
 
-Proyectos IA 🤖
 Aquí muestro algunos proyectos de IA que he desarrollado, con enlaces al repositorio y videos en YouTube.
 <table>
 <tr>
